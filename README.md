@@ -1,0 +1,2 @@
+# blog
+Blog for everyone
